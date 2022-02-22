@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "image": "1.jpg",
+      "name": "T-shirt 1",
+      "price": 2100.234234234,
+      "article": "T1",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "2.jpg",
+      "name": "T-shirt 2",
+      "price": 3150.12312412,
+      "article": "T2",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "3.jpg",
+      "name": "T-shirt 3",
+      "price": 4200.51524,
+      "article": "T3",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "4.jpg",
+      "name": "T-shirt 4",
+      "price": 5300.1245512,
+      "article": "T4",
+      "available": true,
+      "category": "Мужские"
+    },
+    {
+      "image": "5.jpg",
+      "name": "T-shirt 5",
+      "price": 6500.3522314,
+      "article": "T5",
+      "available": false,
+      "category": "Женские"
+    },
+    {
+      "image": "6.jpeg",
+      "name": "T-shirt 6",
+      "price": 2222.4124123,
+      "article": "T6",
+      "available": true,
+      "category": "Женские"
+    },
+    {
+      "image": "7.jpg",
+      "name": "T-shirt 7",
+      "price": 77777.4124123,
+      "article": "T7",
+      "category": "Маски"
+    },
+    {
+      "image": "8.jpg",
+      "name": "T-shirt 8",
+      "price": 432.4124123,
+      "article": "T8",
+      "category": "Маски"
+    },
+    {
+      "image": "9.jpg",
+      "name": "T-shirt 9",
+      "price": 234.4124123,
+      "article": "T9",
+      "category": "Маски"
+    },
+    {
+      "image": "10.jpg",
+      "name": "T-shirt 10",
+      "price": 232411.4124123,
+      "article": "T10",
+      "category": "Маски"
+    },
+    {
+      "image": "11.jpg",
+      "name": "T-shirt 11",
+      "price": 676.6896,
+      "article": "T11",
+      "category": "Маски"
+    },
+    {
+      "image": "12.jpg",
+      "name": "T-shirt 12",
+      "price": 234.4535435,
+      "article": "T12",
+      "category": "Маски"
+    },
+    {
+      "image": "13.jpg",
+      "name": "T-shirt 13",
+      "price": 34.453,
+      "article": "T13",
+      "category": "Маски"
+    },
+    {
+      "image": "14.jpg",
+      "name": "T-shirt 14",
+      "price": 543.5234234,
+      "article": "T14",
+      "category": "Маски"
+    },
+    {
+      "image": "15.jpg",
+      "name": "T-shirt 15",
+      "price": 543.5443,
+      "article": "T15",
+      "category": "Маски"
+    },
+    {
+      "image": "16.jpg",
+      "name": "T-shirt 16",
+      "price": 234.4323,
+      "article": "T16",
+      "category": "Маски"
+    },
+    {
+      "image": "17.jpg",
+      "name": "T-shirt 17",
+      "price": 324.4124123,
+      "article": "T17",
+      "category": "Маски"
+    }
+  ]
+}
